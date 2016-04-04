@@ -48,4 +48,4 @@ v 1.0
   * No concept of MVC. 
 
 
-*Disclaimer: I do not own the rights to the game of Yahtzee nor the name. This project was developed purely for learning purposes and is not for commercial use in any way, shape, or form.*
+*Disclaimer: I do not own the rights to the game of Yahtzee nor the name. This project was developed purely for learning purposes and is not for commercial use in any way, shape, or form. Game icons are from http://game-icons.net/*
