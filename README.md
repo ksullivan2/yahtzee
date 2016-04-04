@@ -35,7 +35,7 @@ v 1.0
 ---------
 
 **To Run:**
-  1. Install Kivy **(LINK HERE)**
+  1. Install [Kivy](https://kivy.org/#download)
   2. Clone repo into a folder called `yahtzee` (or whatever you'd like)
   3. EITHER:
     * Run `kivy __main__.py`
