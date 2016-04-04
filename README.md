@@ -1,5 +1,7 @@
 # YAHTZEE
 
+*The classic dice game.*
+
 ## Game Rules
 **Rolling the Dice**
   * Your goal is to create a good "hand," similar to poker hands.
@@ -44,3 +46,6 @@ v 1.0
   * If you lock all 5 dice, it would be nice to activate the scorecard instead of needing to pretend to finish out your rolls.
   * Yahtzee Bonus category becomes active sometimes when it shouldn't.
   * No concept of MVC. 
+
+
+*Disclaimer: I do not own the rights to the game of Yahtzee nor the name. This project was developed purely for learning purposes and is not for commercial use in any way, shape, or form.*
